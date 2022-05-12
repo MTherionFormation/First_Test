@@ -1,7 +1,2 @@
-<<<<<<< HEAD
-tmp/todo.txt
+tmp/*
 *.txt
-*.xml
-=======
-*.txt
->>>>>>> d0405e9 (nettoyage du fichier)
